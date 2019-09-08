@@ -1,3 +1,0 @@
-this is for delete files
-here we can delete requsted files.
-we are adding some more information for deleting all files
