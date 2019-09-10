@@ -1,0 +1,2 @@
+this is test 3 file which contains less information
+so we are able to focus on in and out of the file.
