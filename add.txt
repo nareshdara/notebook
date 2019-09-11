@@ -1,0 +1,2 @@
+this is addition for two files
+this contains some information.
