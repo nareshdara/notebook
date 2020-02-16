@@ -1,3 +1,0 @@
-this is a test file
-this file contains some information
-this can understand easily
